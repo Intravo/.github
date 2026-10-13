@@ -32,7 +32,7 @@ Since 2017 our team has delivered events in 38+ countries and 60+ languages. We 
 
 ## The platform
 
-| | |
+| Product | Description |
 |---|---|
 | **Jybe mobile app** | Agendas, networking, live polling, gamification, and a social feed, fully branded for each event. |
 | **Second Screen** | Tablets become an interactive channel for notes, saved slides, and real-time feedback. |
